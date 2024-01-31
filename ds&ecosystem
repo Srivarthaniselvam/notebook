@@ -1,0 +1,46 @@
+##Data Science Tools and Ecosystem
+#Introduction
+Welcome to my Data Science Notebook! In this exploration, we delve into various tools and concepts of the data science tools and ecosystem
+
+Some of the Poplar languages that Data Science use are:
+
+1.Python
+2.R 
+3.SQL 
+4.C++ 
+5.Java etc.,,
+Some of the commony used libraries used by data science:
+
+1.NumPy
+2.Pandas
+3.Matplotlib
+4.Seaborn
+5.Scikit-learn
+6.TensorFlow
+7.PyTorch
+8.NLTK (Natural Language Toolkit)
+Data Science Tool
+Jupyter Notebook
+VS Code
+Tableau
+Git
+TensorFlow
+PyTorch
+Below are a few examples of evaluating Arithmetic Expressions in Python
+Perform basic calculations.
+Manipulate numerical data.
+Create algorithms involving mathematical operations.
+#this a common Arithmetic Examples to multiply and them add integers
+(3*4)+5
+#Convert Minutes to Hours
+200/60
+Objectives
+
+Explore data science tools
+
+Understand basic arithmetic in Python
+
+Demonstrate coding proficiency
+
+Author
+Sri Varthani
